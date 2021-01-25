@@ -15,3 +15,9 @@
 **Projects**
 1. Dynamic Patient Admission Scheduling Using Java.
 2. E-Commerce Website Database.
+
+I have learned the basics of Programming that includes Java, C++, html & css and MySQL in my Undergrad. All I need to do is to enhance and master my skill set in my Grad program.
+
+In this course I would like to learn the full stack development and perform effective operations on the server and client.
+
+I hope that I'll add a new skill set in this semester and I look forward to design and create projects in class.
